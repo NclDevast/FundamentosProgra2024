@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1721413816 source:c:\programas\proyecto pedidosya\pedidosyaproyecto2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FUNCIONES.h"
+
+1721413504 c:\programas\proyecto pedidosya\pedidosyaproyecto2\funciones.h
+

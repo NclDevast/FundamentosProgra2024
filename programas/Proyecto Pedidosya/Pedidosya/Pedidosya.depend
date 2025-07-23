@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1721392703 source:c:\programas\proyecto pedidosya\pedidosya\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"FUNCIONES1.h"
+
+1721392820 c:\programas\proyecto pedidosya\pedidosya\funciones1.h
+
+1721392926 source:c:\programas\proyecto pedidosya\pedidosya\source.c
+	"stdio.h"
+	"string.h"
+	"FUNCIONES1.h"
+
+1721392926 source:c:\programas\proyecto pedidosya\pedidosya\source_proveedor.c
+	"stdio.h"
+	"stdlib.h"
+	"time.h"
+	"FUNCIONES1.h"
+

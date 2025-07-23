@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1721252634 source:c:\users\hp\onedrive\documentos\programaci÷n\pedidos ya\main.c
+	"main.h"
+	"cliente.h"
+	"proveedor.h"
+
+1721252398 c:\users\hp\onedrive\documentos\programaci÷n\pedidos ya\main.h
+	"stdio.h"
+	"stdlib.h"
+	"time.h"
+	"cliente.h"
+	"proveedor.h"
+
+1721252452 c:\users\hp\onedrive\documentos\programaci÷n\pedidos ya\cliente.h
+
+1721252509 c:\users\hp\onedrive\documentos\programaci÷n\pedidos ya\proveedor.h
+
+1721252634 source:c:\users\hp\onedrive\documentos\programaci÷n\pedidos ya\cliente.c
+	"cliente.h"
+	"main.h"
+
+1721252204 source:c:\users\hp\onedrive\documentos\programaci÷n\pedidos ya\proveedor.c
+	"proveedor.h"
+	"main.h"
+

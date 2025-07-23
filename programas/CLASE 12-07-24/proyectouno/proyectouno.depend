@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1720788782 source:c:\programas\clase 12-07-24\proyectouno\main.c
+	<stdio.h>
+	<stdlib.h>
+	"AAAA.h"
+	"SEEEEEES.h"
+
+1720788753 c:\programas\clase 12-07-24\proyectouno\aaaa.h
+
+1720788192 source:c:\programas\clase 12-07-24\proyectouno\archivo1.c
+	"stdio.h"
+
+1720788609 source:c:\programas\clase 12-07-24\proyectouno\epetidor.c
+
+1720788990 source:c:\programas\clase 12-07-24\proyectouno\seeeeees.c
+	"stdio.h"
+
+1720788753 c:\programas\clase 12-07-24\proyectouno\seeeeees.h
+

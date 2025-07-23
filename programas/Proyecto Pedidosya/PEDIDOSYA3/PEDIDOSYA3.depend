@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1724365388 source:c:\programas\proyecto pedidosya\pedidosya3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FUNCIONES.h"
+	"string.h"
+
+1724366277 c:\programas\proyecto pedidosya\pedidosya3\funciones.h
+
+1722427631 source:c:\programas\proyecto pedidosya\pedidosya3\source-cliente.c
+	"stdio.h"
+	"stdlib.h"
+	"FUNCIONES.h"
+	"string.h"
+
+1722106777 source:c:\programas\proyecto pedidosya\pedidosya3\source-proveedor.c
+	"stdio.h"
+	"stdlib.h"
+	"time.h"
+	"FUNCIONES.h"
+
+1722432017 source:c:\programas\proyecto pedidosya\pedidosya3\source.c
+	"stdio.h"
+	"stdlib.h"
+	"FUNCIONES.h"
+	"string.h"
+	"windows.h"
+	"unistd.h"
+
